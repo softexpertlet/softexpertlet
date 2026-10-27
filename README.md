@@ -1,6 +1,10 @@
 <div align="center">
+<img 
+  src="Welcome" 
+  alt="Welcome animation" 
+/>
 
-# Hi, I'm Leticia.
+---
 
 ### Business Process Automation | Process Modeling
 
