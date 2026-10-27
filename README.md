@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-  src="Welcome" 
+  src="Welcome.gif" 
   alt="Welcome animation" 
 />
 
